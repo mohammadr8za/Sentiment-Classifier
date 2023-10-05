@@ -1,0 +1,2 @@
+Dataset,BS,LR,G,L,Dropout,Epochs
+IMDB,8,1e-05,0.995,9e-06,0.06,20
