@@ -11,7 +11,7 @@ For the initial implementation, a simple linear network is used to demonstrate t
 
 To run this project on your local machine, follow these steps:
 
-* Clone the repository: git clone https://github.com/your-username/IMDB-review-classification.git
+* Clone the repository: git clone [https://github.com/your-username/IMDB-review-classification.git](https://github.com/mohammadr8za/Sentiment-Classifier.git)
 * Install the required dependencies
 * Train the model
 
