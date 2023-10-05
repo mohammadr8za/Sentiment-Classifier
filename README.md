@@ -1,6 +1,10 @@
 # IMDB Review Classification with Deep Learning
 
 This project implements a deep learning model for classifying IMDB movie reviews into positive and negative sentiments. The goal is to develop a text classification system that can accurately predict the sentiment of a given movie review.
+
+![top_img](https://github.com/mohammadr8za/Sentiment-Classifier/assets/72736177/60f31f2a-590f-4056-af40-8e6ba71ef763)
+
+
 ## Project Overview
 
 The project uses the bag-of-words technique to convert textual data into a sparse matrix representation. This representation captures the occurrence of words in each review and forms the basis for feature extraction. The sparse matrix is then converted into tensors, which are compatible with deep learning models in the PyTorch framework.
